@@ -1,6 +1,8 @@
+
 # Stock-Prediction
 Python code to predict a stock price using Yahoo Finance lib. This code is cloned from VikParuchuri but we want to make some modifications to it. 
 Here is a list of the modifications that we will attempt to make  
+
 
 
 ## Improve the technique  
